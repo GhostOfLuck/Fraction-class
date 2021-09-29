@@ -1,0 +1,11 @@
+﻿  10 gr Krasovskaya var 7.cpp
+c:\users\ola\source\repos\factorials lab\10 gr krasovskaya var 7.cpp(9): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\visual\vc\tools\msvc\14.15.26726\include\utility(67): error C2440: инициализация: невозможно преобразовать "Fraction" в "Fraction"
+  c:\visual\vc\tools\msvc\14.15.26726\include\utility(67): note: Создать class "Fraction" с помощью конструктора копий невозможно, так как конструкторы копий неоднозначны или отсутствуют
+  c:\users\ola\source\repos\factorials lab\10 gr krasovskaya var 7.cpp(34): note: выполняется компиляция ссылки на экземпляр шаблон функции "void std::swap<Fraction,void>(_Ty &,_Ty &) noexcept(false)"
+          with
+          [
+              _Ty=Fraction
+          ]
+  Exception.cpp
+  Создание кода...
